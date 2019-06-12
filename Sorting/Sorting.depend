@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1514140574 source:d:\viren\dsa\sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1560280121 source:d:\viren\dsa\sorting\bubble_sort.c
+	<stdio.h>
+	<conio.h>
+
+1560280528 source:d:\viren\dsa\sorting\insertion_sort.c
+	<stdio.h>
+	<conio.h>
+
+1560326869 source:d:\viren\dsa\sorting\merge_sort.c
+	<stdio.h>
+	<conio.h>
+
+1560327152 source:d:\viren\dsa\sorting\untitled4.c
+	<stdlib.h>
+	<stdio.h>
+
